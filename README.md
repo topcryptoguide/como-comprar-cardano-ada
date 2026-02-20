@@ -1,1 +1,3 @@
-# como-comprar-cardano-ada
+[**Cómo comprar Cardano (ADA)**](https://topcryptoguide.com/como-comprar-cardano-ada/)
+
+Este artículo explica **cómo comprar Cardano (ADA)**, la criptomoneda nativa de la blockchain Cardano, conocida por su enfoque en investigación académica y desarrollo escalable y seguro. Para adquirir ADA normalmente debes **crear una cuenta en un exchange confiable donde esté listado** (como Binance, Coinbase o Kraken), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT antes de ejecutar la compra en el mercado spot. Algunos exchanges también permiten **comprar ADA directamente con tarjeta de crédito/débito** o métodos alternativos según disponibilidad. Tras la compra, se recomienda **mover los tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
